@@ -26,9 +26,11 @@ public class Cycle {
         // for - цикл, в котором переменная это счетчик итераций цикла, с определенным шагом, изменяет свое значение
         // до заданного конечного значения.
 
-        for(int counterThree = 0; counterThree < 3; counterThree++){
+        for(int counterThree = 0; counterThree < 3; counterThree++) {
 
             System.out.println("Counter " + counterThree);
         }
     }
 }
+
+// TODO: 10/15/2023 разобрать foreach. 
